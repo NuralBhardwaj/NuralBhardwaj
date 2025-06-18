@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nural+Bhardwaj;Full-Stack+Developer+%7c+Cybersecurity+Enthusiast;Blockchain+%7c+AI+%26+Automation+Tools;Let's+Build+Something+Cool+Together!" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQyaTd5cHE0OXdyOXp6NHprczQ4b2t1NXZ4YTJuZG9pandveDJibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif" width="250" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQyaTd5cHE0OXdyOXp6NHprczQ4b2t1NXZ4YTJuZG9pandveDJibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif" width="300" alt="dev gif" />
 </p>
 
 ---
@@ -107,10 +107,10 @@
 ## 🤝 Let’s Collaborate
 
 I’m open to collaborations on:
-- Full Stack Apps
-- Cybersecurity Projects
-- Blockchain Smart Contracts
-- AI-powered Excel or Trading Tools
+- 🌐 Full-Stack Web Projects  
+- 🔐 Cybersecurity + Pentesting Tools  
+- ⛓ Blockchain / Web3 / Solana dApps  
+- 🤖 AI-powered automation tools
 
 Ping me on [LinkedIn](https://linkedin.com/in/nuralbhardwaj) or raise an issue in any repo. Let's build something awesome! 🚀
 
