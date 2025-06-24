@@ -9,12 +9,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech CSE @ Graphic Era Hill University  
+- 👨🏻‍💻 Full-Stack & DevOps Developer | CEH Certified | Blockchain & AI Projects | Building Secure Web Apps  
 - 🔐 CEH Certified | Security + Ethical Hacking
 - 🔐 CHFI Certified | Digital Forensics
 - 💡 Creator of **TheHackerHive** on YouTube  
-- 🧠 Building **AI Chatbot's**, **Solana Smart Payments**, **Ottify**, **E-Commerce's** and **Scrum Dashboards**
-- 💬 Ask me about: Blockchain, Python, Full Stack Apps, Solana, Cybersecurity
+- 💬 Ask me about: DevOps, Blockchain, Python, Full Stack Apps, Solana, Cybersecurity
 
 ---
 
